@@ -1,0 +1,1 @@
+This repo contains the source code to run an application for analysing textual data and providing information from the read data (stored as a vector database). It implements a RAG based prompting to achieve better results from LLMs instead of them hallucinating something.

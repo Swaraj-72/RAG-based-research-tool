@@ -1,0 +1,11 @@
+__pycache__/
+
+*.env
+*.csv
+*.txt
+*.pkl
+
+e2e_langchain.py
+
+env/
+News_research_tool_project/
